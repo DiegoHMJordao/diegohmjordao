@@ -29,5 +29,5 @@
 - 👨‍I'm Diego. I´m Front-End Developer
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning React/Javascript
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
