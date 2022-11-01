@@ -16,18 +16,12 @@
 ##
 
 <div> 
-  
   <a href="https://www.instagram.com/dhmjordao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:jordao.diego@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-h-m-jord%C3%A3o-4293a0242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-
 
 - 👨‍I'm Diego. I´m Front-End Developer
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning React/Javascript
 - 😄 Pronouns: he/him
-
