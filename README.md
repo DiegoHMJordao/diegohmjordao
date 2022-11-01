@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/diego-h-m-jord%C3%A3o-4293a0242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 👨‍I'm Diego. I´m Front-End Developer
+- 👨‍I'm Diego, Front-End Developer
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning React/Javascript
 - 😄 Pronouns: he/him
